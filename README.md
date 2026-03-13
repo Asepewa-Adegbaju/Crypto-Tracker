@@ -139,20 +139,10 @@ MarketBeacon integrates with the CoinGecko API to provide:
 - **Multiple Currencies**: Support for different fiat currencies
 - **Real-time Updates**: WebSocket integration for live price updates
 
-## 🤝 Contributing
-
-This is a personal project, but feel free to fork and modify for your own use. Suggestions and improvements are welcome!
 
 ## 📄 License
 
 This project is private and for personal use.
-
-## 🙏 Acknowledgments
-
-- **CoinGecko API**: For providing comprehensive cryptocurrency data
-- **React Team**: For the excellent React framework
-- **Vite Team**: For the fast build tool
-- **Lucide**: For beautiful, consistent icons
 
 ---
 
